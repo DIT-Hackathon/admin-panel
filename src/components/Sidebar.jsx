@@ -18,7 +18,7 @@ export default function CollapsibleSidebar() {
               <div className="w-8 h-8 rounded-full border-2 border-white flex items-center justify-center text-sm font-semibold">
                 H
               </div>
-              <div className="text-lg font-semibold">Hackathom</div>
+              <div className="text-lg font-semibold">Hackathon</div>
             </div>
 
             <div className="h-px bg-white/6 my-1" />
