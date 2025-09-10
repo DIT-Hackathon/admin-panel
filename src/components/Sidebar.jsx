@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 
-// Sidebar that fully disappears when collapsed, but leaves a thin black line
 export default function CollapsibleSidebar() {
   const [isOpen, setIsOpen] = useState(true);
 
