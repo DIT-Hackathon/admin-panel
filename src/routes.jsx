@@ -4,7 +4,7 @@ import Sidebar from './components/Sidebar';
 
 export const router = createBrowserRouter([
   {
-    path: '/',
+    path: '/homePage',
     element: <Home />,
   },
 
