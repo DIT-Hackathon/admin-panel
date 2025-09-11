@@ -1,9 +1,10 @@
 import { createBrowserRouter } from 'react-router-dom';
-import Home from './pages/Home';
+import HomePage from './pages/HomePage';
+import InputBox from './components/Input';
 
 export const router = createBrowserRouter([
   {
     path: '/',
-    element: <Home />,
+    element: < InputBox placeholder={"email"}/>,
   },
 ]);
